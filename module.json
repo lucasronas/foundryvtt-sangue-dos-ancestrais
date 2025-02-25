@@ -8,7 +8,7 @@
         "minimum": "0.8.0",
         "verified": "10.0"
     },
-    "scripts": ["https://raw.githubusercontent.com/lucasronas/foundryvtt-sangue-dos-ancestrais/main/script.js"],
+    "scripts": ["https://raw.githubusercontent.com/lucasronas/foundryvtt-sangue-dos-ancestrais/main/module.json"],
     "esmodules": [],
     "styles": [],
     "languages": [],
