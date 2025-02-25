@@ -1,0 +1,20 @@
+{
+    "name": "sangue-dos-ancestrais",
+    "title": "Sangue dos Ancestrais",
+    "description": "Uma subclasse personalizada para feiticeiros no sistema D&D 5e.",
+    "version": "1.0.0",
+    "author": "Reinaldo",
+    "compatibility": {
+        "minimum": "0.8.0",
+        "verified": "10.0"
+    },
+    "scripts": ["https://raw.githubusercontent.com/lucasronas/foundryvtt-sangue-dos-ancestrais/main/script.js"],
+    "esmodules": [],
+    "styles": [],
+    "languages": [],
+    "packs": [],
+    "system": "dnd5e",
+    "manifest": "https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/foundryvtt-sangue-dos-ancestrais/main/module.json",
+    "download": "https://github.com/SEU_USUARIO_GITHUB/foundryvtt-sangue-dos-ancestrais/archive/main.zip",
+    "license": "MIT"
+}
