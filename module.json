@@ -14,7 +14,7 @@
     "languages": [],
     "packs": [],
     "system": "dnd5e",
-    "manifest": "https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/foundryvtt-sangue-dos-ancestrais/main/module.json",
-    "download": "https://github.com/SEU_USUARIO_GITHUB/foundryvtt-sangue-dos-ancestrais/archive/main.zip",
+    "manifest": "https://raw.githubusercontent.com/lucasronas/foundryvtt-sangue-dos-ancestrais/main/module.json",
+    "download": "https://github.com/lucasronas/foundryvtt-sangue-dos-ancestrais/archive/main.zip",
     "license": "MIT"
 }
